@@ -1,0 +1,12 @@
+time="2023-06-22 18:21:40" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=1043 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=GET Path="/api/v1/users?pagesize=&pagenum=" SpendTime="6 ms" status=200
+time="2023-06-22 18:26:01" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=1043 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=GET Path="/api/v1/users?pagesize=&pagenum=" SpendTime="4 ms" status=200
+time="2023-06-22 18:58:36" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=66 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="2 ms" status=200
+time="2023-06-22 18:59:07" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=66 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2023-06-22 19:00:16" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=66 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="2 ms" status=200
+time="2023-06-22 19:00:55" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=53 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2023-06-22 19:08:58" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=58 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2023-06-22 19:09:22" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=51 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2023-06-22 19:09:31" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=207 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="112 ms" status=200
+time="2023-06-22 19:09:37" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=67 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200
+time="2023-06-22 19:09:51" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=67 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2023-06-22 19:09:58" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=64 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=POST Path=/api/v1/user/add SpendTime="0 ms" status=200

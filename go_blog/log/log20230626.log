@@ -1,0 +1,3 @@
+time="2023-06-26 15:14:22" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=119 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=GET Path="/api/v1/category?pagesize=&pagenum=" SpendTime="6 ms" status=200
+time="2023-06-26 15:15:29" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=1224 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=GET Path="/api/v1/users?pagesize=&pagenum=" SpendTime="6 ms" status=200
+time="2023-06-26 15:16:03" level=info Agent=PostmanRuntime-ApipostRuntime/1.1.0 DataSize=1514 HostName=DESKTOP-89BPQAK Ip=127.0.0.1 Method=GET Path="/api/v1/article?pagesize=5&pagenum=1" SpendTime="6 ms" status=200
